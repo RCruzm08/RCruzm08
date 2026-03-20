@@ -47,19 +47,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=RCruzm08&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555)](https://git.io/streak-stats)
 
-</div>
-
-<br/>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RCruzm08&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <br/>
 
