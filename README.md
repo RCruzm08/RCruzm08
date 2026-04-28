@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Rcruz+👋;Backend+Developer+&+Cybersecurity;Sempre+aprendendo...)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Rcruz+👋;Backend+Developer+%26+Cybersecurity;Sempre+aprendendo...)](https://git.io/typing-svg)
 <br/>
 
 *Apenas um jovem estudando e desbravando o mundo da tecnologia.*
