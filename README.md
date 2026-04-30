@@ -50,7 +50,7 @@
 | [🌿 LifeEngine](https://github.com/RCruzm08/LifeEngine) | Simulador de vida artificial com sazonalidade, espécies emergentes e ecossistema dinâmico | Java · JavaScript · WebSocket |
 | [👁️ Olho-de-deus](https://github.com/RCruzm08/Olho-de-deus) | Sistema de monitoramento/segurança — projeto de cibersegurança aplicada | Java |
 | [🔍 ScannerPY](https://github.com/RCruzm08/ScannerPY) | Scanner de rede em Python para análise e auditoria de hosts | Python |
-
+| [🛡️ ArcaneShield](https://github.com/RCruzm08/ArcaneShield) | API REST de cibersegurança com temática RPG — gerenciamento de ameaças, entidades e defesa de sistemas | Java · Spring Boot |
 ---
 
 ## 📈 Estatísticas
