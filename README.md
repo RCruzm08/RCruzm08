@@ -7,57 +7,40 @@
 
 ---
 
-## 🧩 Sobre mim
+## 🧠 Sobre mim
 
-- 🔭 Atualmente desenvolvendo sistemas de backend e automação com foco em escalabilidade
-- 🛡️ Tenho formação em **cibersegurança** — code review, análise de vulnerabilidades e postura de auditor no desenvolvimento
-- 🤖 Desenvolvi um **bot de Discord** completo com rastreamento de dados, rankings, gestão financeira e relatórios automáticos — rodando no Google Cloud via PM2
-- 🌱 Atualmente estudando **PHP OOP** e aprofundando em **Spring Boot**
-- ⚡ Projeto favorito: [LifeEngine](https://github.com/RCruzm08/LifeEngine) — simulador de vida artificial com sazonalidade e emergência de espécies
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&width=600&lines=%F0%9F%A4%96+Discord+Bots+com+discord.js+%E2%80%94+automa%C3%A7%C3%A3o+e+gest%C3%A3o;%F0%9F%9B%A1%EF%B8%8F+Background+em+Ciberseguran%C3%A7a+aplicado+no+dev;%F0%9F%93%9A+Estudando+PHP+OOP+%26+arquitetura+backend;%F0%9F%8C%B1+Sempre+aprendendo%2C+um+dia+ap%C3%B3s+o+outro)](https://git.io/typing-svg)
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+## ⚙️ Tecnologias
 
-**Linguagens**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=AAAAAA&width=500&lines=Java+%7C+JavaScript+%7C+Node.js+%7C+Python+%7C+PHP;MySQL+%7C+SQL+%7C+Spring+Boot+%7C+Discord.js;Google+Cloud+%7C+WebSocket+%7C+REST+APIs)](https://git.io/typing-svg)
 
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/RCruzm08)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://github.com/RCruzm08)
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)](https://github.com/RCruzm08)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)](https://github.com/RCruzm08)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](https://github.com/RCruzm08)
-[![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white)](https://github.com/RCruzm08)
-
-**Frameworks & Plataformas**
-
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=springboot&logoColor=white)](https://github.com/RCruzm08)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/RCruzm08)
-[![Discord.js](https://img.shields.io/badge/Discord.js-%235865F2.svg?style=flat-square&logo=discord&logoColor=white)](https://github.com/RCruzm08)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://github.com/RCruzm08)
-
-**Banco de Dados & Infra**
-
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://github.com/RCruzm08)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=googlecloud&logoColor=white)](https://github.com/RCruzm08)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](https://github.com/RCruzm08)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,php,mysql,spring,discord,gcp&theme=dark&perline=9" />
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-| Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [🌿 LifeEngine](https://github.com/RCruzm08/LifeEngine) | Simulador de vida artificial com sazonalidade, espécies emergentes e ecossistema dinâmico | Java · JavaScript · WebSocket |
-| [👁️ Olho-de-deus](https://github.com/RCruzm08/Olho-de-deus) | Sistema de monitoramento/segurança — projeto de cibersegurança aplicada | Java |
-| [🔍 ScannerPY](https://github.com/RCruzm08/ScannerPY) | Scanner de rede em Python para análise e auditoria de hosts | Python |
-| [🛡️ArcaneShield](https://github.com/RCruzm08/ArcaneShield) | API REST de cibersegurança com temática RPG — gerenciamento de ameaças, entidades e defesa de sistemas | Java · Spring Boot |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=FFFFFF&width=700&lines=%F0%9F%A4%96+Discord+Bot+%E2%80%94+discord.js+%2B+Node.js+%2B+Google+Cloud;%F0%9F%8C%B1+LifeEngine+%E2%80%94+Java+%2F+Spring+Boot+%2F+WebSocket;%F0%9F%94%8D+Olho-de-deus+%E2%80%94+Ferramenta+de+seguran%C3%A7a+em+Java;%F0%9F%90%8D+ScannerPY+%E2%80%94+Automa%C3%A7%C3%A3o+e+seguran%C3%A7a+em+Python)](https://git.io/typing-svg)
+
+| Projeto | Tecnologias | Descrição |
+|---|---|---|
+| 🤖 **Discord Bot** | `discord.js` `Node.js` `GCP` | Bot com automação, gestão e relatórios automáticos |
+| 🌱 **[LifeEngine](https://github.com/RCruzm08/LifeEngine)** | `Java` `Spring Boot` `WebSocket` | Simulador de vida artificial com estações e emergência de espécies |
+| 🔍 **[Olho-de-deus](https://github.com/RCruzm08/Olho-de-deus)** | `Java` | Ferramenta de segurança e monitoramento |
+| 🐍 **[ScannerPY](https://github.com/RCruzm08/ScannerPY)** | `Python` | Scanner com foco em automação e segurança |
+
 ---
 
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RCruzm08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCruzm08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" height="165" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RCruzm08&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&count_private=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RCruzm08&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
 </p>
 
 <p align="center">
@@ -65,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RCruzm08&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RCruzm08&bg_color=0d1117&color=888888&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -73,4 +56,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RCruzm08&color=ffffff&style=flat-square&label=visitantes" />
 </p>
-
