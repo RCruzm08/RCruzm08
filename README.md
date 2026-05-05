@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Rcruz+%F0%9F%91%8B;Backend+Developer+%26+Cybersecurity;Construindo+sistemas%2C+um+commit+de+cada+vez.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Rcruz+%F0%9F%91%8B;Backend+Developer+%26+Cybersecurity;Construindo+sistemas%2C+um+commit+de+cada+vez.)](https://git.io/typing-svg)
 
 <p align="center">
   <em>Desenvolvedor backend do Rio de Janeiro — construo sistemas que vão desde bots de Discord até simuladores de vida artificial.<br>
