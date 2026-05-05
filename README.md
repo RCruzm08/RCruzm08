@@ -9,13 +9,13 @@
 
 ## 🧠 Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&width=600&lines=%F0%9F%A4%96+Discord+Bots+com+discord.js+%E2%80%94+automa%C3%A7%C3%A3o+e+gest%C3%A3o;%F0%9F%9B%A1%EF%B8%8F+Background+em+Ciberseguran%C3%A7a+aplicado+no+dev;%F0%9F%93%9A+Estudando+PHP+OOP+%26+arquitetura+backend;%F0%9F%8C%B1+Sempre+aprendendo%2C+um+dia+ap%C3%B3s+o+outro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&width=650&lines=%F0%9F%A4%96+Discord+Bots+com+discord.js+%E2%80%94+automa%C3%A7%C3%A3o+e+gest%C3%A3o;%F0%9F%9B%A1%EF%B8%8F+Background+em+Ciberseguran%C3%A7a+aplicado+no+dev;%F0%9F%93%9A+Estudando+PHP+OOP+%26+arquitetura+backend;%F0%9F%8C%B1+Sempre+aprendendo%2C+um+dia+ap%C3%B3s+o+outro)](https://git.io/typing-svg)
 
 ---
 
 ## ⚙️ Tecnologias
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=AAAAAA&width=500&lines=Java+%7C+JavaScript+%7C+Node.js+%7C+Python+%7C+PHP;MySQL+%7C+SQL+%7C+Spring+Boot+%7C+Discord.js;Google+Cloud+%7C+WebSocket+%7C+REST+APIs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=AAAAAA&width=550&lines=Java+%7C+JavaScript+%7C+Node.js+%7C+Python+%7C+PHP;MySQL+%7C+SQL+%7C+Spring+Boot+%7C+Discord.js;Google+Cloud+%7C+WebSocket+%7C+REST+APIs)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,php,mysql,spring,discord,gcp&theme=dark&perline=9" />
@@ -45,6 +45,19 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RCruzm08&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RCruzm08&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RCruzm08&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RCruzm08&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RCruzm08&theme=github_dark&utcOffset=-3" />
 </p>
 
 <p align="center">
