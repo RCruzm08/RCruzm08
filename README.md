@@ -13,13 +13,46 @@
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Stacks que mais uso
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=AAAAAA&width=550&lines=Java+%7C+JavaScript+%7C+Node.js+%7C+Python+%7C+PHP;MySQL+%7C+SQL+%7C+Spring+Boot+%7C+Discord.js;Google+Cloud+%7C+WebSocket+%7C+REST+APIs)](https://git.io/typing-svg)
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,python,php,mysql,spring,discord,gcp&theme=dark&perline=9" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <strong>🖥️ Linguagens</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=java,js,python,php,dart&theme=dark&perline=5" /><br><br>
+      <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>PHP</code> &nbsp; <code>Dart</code>
+    </td>
+    <td align="center" width="200">
+      <strong>🔧 Backend & Frameworks</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark&perline=3" /><br><br>
+      <code>Spring Boot</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <strong>🗄️ Banco de Dados</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=3" /><br><br>
+      <code>MySQL</code> &nbsp; <code>SQLite</code>
+    </td>
+    <td align="center" width="200">
+      <strong>☁️ Infra & DevOps</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash&theme=dark&perline=4" /><br><br>
+      <code>GCP</code> &nbsp; <code>Docker</code> &nbsp; <code>Linux</code> &nbsp; <code>Bash</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <strong>🔐 Segurança</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark&perline=3" /><br><br>
+      <code>Pentest</code> &nbsp; <code>Blue Team</code> &nbsp; <code>Red Team</code>
+    </td>
+    <td align="center" width="200">
+      <strong>🛠️ Ferramentas</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" /><br><br>
+      <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VSCode</code> &nbsp; <code>Postman</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
