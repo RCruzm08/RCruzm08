@@ -1,15 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Rcruz+%F0%9F%91%8B;Backend+Developer+%26+Cybersecurity;Construindo+sistemas%2C+um+commit+de+cada+vez.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Ol%C3%A1%2C+eu+sou+o+Ricardo+Cruz+%F0%9F%91%8B;Backend+Developer+%26+Cybersecurity;Construindo+sistemas%2C+um+commit+de+cada+vez.)](https://git.io/typing-svg)
 
 <p align="center">
-  <em>Desenvolvedor backend do Rio de Janeiro — construo sistemas que vão desde bots de Discord até simuladores de vida artificial.<br>
-  Background em cibersegurança, fascinado por arquitetura de software e automação.</em>
+  <em>
+    Desenvolvedor backend do Rio de Janeiro, com foco em automação, arquitetura de software e segurança.<br>
+    Crio sistemas que vão desde bots para Discord até simuladores, ferramentas web e soluções voltadas para cibersegurança.
+  </em>
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&width=650&lines=%F0%9F%A4%96+Discord+Bots+com+discord.js+%E2%80%94+automa%C3%A7%C3%A3o+e+gest%C3%A3o;%F0%9F%9B%A1%EF%B8%8F+Background+em+Ciberseguran%C3%A7a+aplicado+no+dev;%F0%9F%93%9A+Estudando+PHP+OOP+%26+arquitetura+backend;%F0%9F%8C%B1+Sempre+aprendendo%2C+um+dia+ap%C3%B3s+o+outro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=888888&width=750&lines=%F0%9F%A4%96+Desenvolvimento+de+bots+com+discord.js+e+Node.js;%F0%9F%9B%A1%EF%B8%8F+Background+em+ciberseguran%C3%A7a+aplicado+ao+desenvolvimento;%F0%9F%93%9A+Estudo+cont%C3%ADnuo+de+backend%2C+PHP+OOP+e+arquitetura;%F0%9F%8C%B1+Evoluindo+um+projeto+e+um+commit+por+vez)](https://git.io/typing-svg)
+
+Sou desenvolvedor backend com interesse forte em sistemas escaláveis, automação, segurança da informação e arquitetura de software.
+
+Gosto de construir projetos práticos, explorar novas tecnologias e transformar ideias em aplicações funcionais. Minha base técnica envolve desenvolvimento web, APIs, bancos de dados, ferramentas de automação e fundamentos de segurança ofensiva e defensiva.
 
 ---
 
@@ -17,39 +23,39 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>🖥️ Linguagens</strong><br><br>
       <img src="https://skillicons.dev/icons?i=java,js,python,php,dart&theme=dark&perline=5" /><br><br>
       <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>PHP</code> &nbsp; <code>Dart</code>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>🔧 Backend & Frameworks</strong><br><br>
       <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark&perline=3" /><br><br>
       <code>Spring Boot</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>🗄️ Banco de Dados</strong><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=3" /><br><br>
       <code>MySQL</code> &nbsp; <code>SQLite</code>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>☁️ Infra & DevOps</strong><br><br>
       <img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash&theme=dark&perline=4" /><br><br>
       <code>GCP</code> &nbsp; <code>Docker</code> &nbsp; <code>Linux</code> &nbsp; <code>Bash</code>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>🔐 Segurança</strong><br><br>
       <img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark&perline=3" /><br><br>
       <code>Pentest</code> &nbsp; <code>Blue Team</code> &nbsp; <code>Red Team</code>
     </td>
-    <td align="center" width="200">
+    <td align="center" width="220">
       <strong>🛠️ Ferramentas</strong><br><br>
       <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" /><br><br>
-      <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VSCode</code> &nbsp; <code>Postman</code>
+      <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VS Code</code> &nbsp; <code>Postman</code>
     </td>
   </tr>
 </table>
@@ -58,14 +64,14 @@
 
 ## 🚀 Projetos em Destaque
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=FFFFFF&width=700&lines=%F0%9F%A4%96+Discord+Bot+%E2%80%94+discord.js+%2B+Node.js+%2B+Google+Cloud;%F0%9F%8C%B1+LifeEngine+%E2%80%94+Java+%2F+Spring+Boot+%2F+WebSocket;%F0%9F%94%8D+Olho-de-deus+%E2%80%94+Ferramenta+de+seguran%C3%A7a+em+Java;%F0%9F%90%8D+ScannerPY+%E2%80%94+Automa%C3%A7%C3%A3o+e+seguran%C3%A7a+em+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=FFFFFF&width=780&lines=%F0%9F%A4%96+Discord+Bot+%E2%80%94+discord.js+%2B+Node.js+%2B+Google+Cloud;%F0%9F%8C%B1+LifeEngine+%E2%80%94+Java+%2B+Spring+Boot+%2B+WebSocket;%F0%9F%94%8D+Olho+de+Deus+%E2%80%94+Ferramenta+de+seguran%C3%A7a+em+Java;%F0%9F%90%8D+ScannerPY+%E2%80%94+Automa%C3%A7%C3%A3o+e+seguran%C3%A7a+em+Python)](https://git.io/typing-svg)
 
 | Projeto | Tecnologias | Descrição |
 |---|---|---|
-| 🤖 **Discord Bot** | `discord.js` `Node.js` `GCP` | Bot com automação, gestão e relatórios automáticos |
-| 🌱 **[LifeEngine](https://github.com/RCruzm08/LifeEngine)** | `Java` `Spring Boot` `WebSocket` | Simulador de vida artificial com estações e emergência de espécies |
-| 🔍 **[Olho-de-deus](https://github.com/RCruzm08/Olho-de-deus)** | `Java` | Ferramenta de segurança e monitoramento |
-| 🐍 **[ScannerPY](https://github.com/RCruzm08/ScannerPY)** | `Python` | Scanner com foco em automação e segurança |
+| 🤖 **Discord Bot** | `discord.js` `Node.js` `GCP` | Bot com automação, gestão e relatórios automáticos para servidores Discord. |
+| 🌱 **[LifeEngine](https://github.com/RCruzm08/LifeEngine)** | `Java` `Spring Boot` `WebSocket` | Simulador de vida artificial com estações, eventos e emergência de espécies. |
+| 🔍 **[Olho de Deus](https://github.com/RCruzm08/Olho-de-deus)** | `Java` | Ferramenta com foco em segurança, análise e monitoramento. |
+| 🐍 **[ScannerPY](https://github.com/RCruzm08/ScannerPY)** | `Python` | Scanner voltado para automação, enumeração e análise de segurança. |
 
 ---
 
