@@ -19,43 +19,91 @@ Gosto de construir projetos práticos, explorar novas tecnologias e transformar 
 
 ---
 
-## ⚙️ Stacks que mais uso
+## ⚙️ Tecnologias & Ferramentas
 
 <table align="center">
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="260">
       <strong>🖥️ Linguagens</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=java,js,python,php,dart&theme=dark&perline=5" /><br><br>
-      <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Python</code> &nbsp; <code>PHP</code> &nbsp; <code>Dart</code>
+      <img src="https://skillicons.dev/icons?i=java,js,python,php,dart,html,css&theme=dark&perline=4" /><br><br>
+      <code>Java</code> <code>JavaScript</code> <code>Python</code> <code>PHP</code><br>
+      <code>Dart</code> <code>HTML</code> <code>CSS</code> <code>SQL</code>
     </td>
-    <td align="center" width="220">
+    <td align="center" width="260">
       <strong>🔧 Backend & Frameworks</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark&perline=3" /><br><br>
-      <code>Spring Boot</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code>
+      <img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask&theme=dark&perline=4" /><br><br>
+      <code>Spring Boot</code> <code>Node.js</code><br>
+      <code>Express</code> <code>Flask</code><br>
+      <code>APIs REST</code> <code>WebSocket</code>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="220">
+    <td align="center" width="260">
       <strong>🗄️ Banco de Dados</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=3" /><br><br>
-      <code>MySQL</code> &nbsp; <code>SQLite</code>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark&perline=4" /><br><br>
+      <code>MySQL</code> <code>SQLite</code><br>
+      <code>Modelagem de Dados</code><br>
+      <code>Consultas SQL</code> <code>CRUD</code>
     </td>
-    <td align="center" width="220">
-      <strong>☁️ Infra & DevOps</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash&theme=dark&perline=4" /><br><br>
-      <code>GCP</code> &nbsp; <code>Docker</code> &nbsp; <code>Linux</code> &nbsp; <code>Bash</code>
+    <td align="center" width="260">
+      <strong>☁️ Infra, DevOps & Sistemas</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=gcp,docker,linux,bash,git,github&theme=dark&perline=4" /><br><br>
+      <code>Google Cloud</code> <code>Docker</code><br>
+      <code>Linux</code> <code>Bash</code><br>
+      <code>Git</code> <code>GitHub</code>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="220">
-      <strong>🔐 Segurança</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=kali,wireshark&theme=dark&perline=3" /><br><br>
-      <code>Pentest</code> &nbsp; <code>Blue Team</code> &nbsp; <code>Red Team</code>
+    <td align="center" width="260">
+      <strong>🔐 Cibersegurança</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=kali,linux&theme=dark&perline=4" /><br><br>
+      <code>Pentest</code> <code>Red Team</code><br>
+      <code>Blue Team</code> <code>OWASP</code><br>
+      <code>CTF</code> <code>Análise de Vulnerabilidades</code>
     </td>
-    <td align="center" width="220">
-      <strong>🛠️ Ferramentas</strong><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" /><br><br>
-      <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>VS Code</code> &nbsp; <code>Postman</code>
+    <td align="center" width="260">
+      <strong>🧪 Segurança Web</strong><br><br>
+      <code>SQL Injection</code> <code>XSS</code><br>
+      <code>LFI</code> <code>RFI</code><br>
+      <code>Code Review</code><br>
+      <code>Hardening</code> <code>Enumeração Web</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
+      <strong>🕵️ Forense & Análise</strong><br><br>
+      <code>Forense Digital</code><br>
+      <code>Análise de Logs</code><br>
+      <code>Investigação de Incidentes</code><br>
+      <code>Coleta de Evidências</code><br>
+      <code>Análise de Arquivos</code>
+    </td>
+    <td align="center" width="260">
+      <strong>🛠️ Ferramentas de Segurança</strong><br><br>
+      <code>Nmap</code> <code>Hydra</code><br>
+      <code>Wireshark</code> <code>Gobuster</code><br>
+      <code>Burp Suite</code> <code>Netcat</code><br>
+      <code>SSH</code> <code>RDP</code> <code>xfreerdp</code>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
+      <strong>🧰 Ferramentas de Desenvolvimento</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=vscode,postman,github&theme=dark&perline=4" /><br><br>
+      <code>VS Code</code> <code>Postman</code><br>
+      <code>GitHub</code> <code>Markdown</code><br>
+      <code>GitHub README</code>
+    </td>
+    <td align="center" width="260">
+      <strong>🏗️ Conceitos Técnicos</strong><br><br>
+      <code>Arquitetura Backend</code><br>
+      <code>Orientação a Objetos</code><br>
+      <code>Automação</code> <code>APIs</code><br>
+      <code>Segurança em Código</code>
     </td>
   </tr>
 </table>
